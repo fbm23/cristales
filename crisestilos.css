@@ -1,0 +1,39 @@
+/* esta es mi archivo de estilos */
+		body{
+			/*background-color: #004080;*/
+			background-image: url("tapiz5.jpg");
+			background-attachment: fixed;
+            background-repeat: no-repeat;
+			
+			background-size: cover;
+            
+            
+			color: rgb(6, 241, 131);
+		}
+		header{
+			background-color: #0073e6;
+			border: 5px outset  #ffff1a;
+		}
+		h1{
+			text-align: center;
+			font-family: times new roman;
+		}
+		a:link{
+			color: antiquewhite ;
+		}
+		a:visited{
+			background-color:  #e6f2ff;
+			color:rgb(247, 37, 9) ;
+
+		}
+		a:hover{
+			background-color:  #e6f2ff;
+
+		}
+		a:active{
+			color: indianred;
+		}
+		iframe{
+			width: 80%;
+			height: 80vh;
+		}
